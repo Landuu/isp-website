@@ -1,6 +1,7 @@
 # Portfolio - przykładowa strona dostawcy usług telekomunikacyjnych
 
 Wykorzystane technologie:
+- PHP
 - HTML
 - CSS (Bootstrap + Boxicons)
 
